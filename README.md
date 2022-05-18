@@ -2,4 +2,4 @@
 
 ### Hello! 👋
 
-My name is Kevin, and I am a software engineer major student from Brooklyn Technical High School.
+I'm Kevin, a computer science student.
