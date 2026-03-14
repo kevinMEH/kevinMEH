@@ -1,1 +1,1 @@
-<img src="castle-ascii-cropped.png" width="800" height="auto">
+<img src="castle-ascii-cropped.png" width="1757" height="auto">
